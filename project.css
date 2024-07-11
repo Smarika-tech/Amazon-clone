@@ -150,7 +150,8 @@ margin-left: 20px;
 .content-section{
     background-image: url("./Utils/kitchen.jpg");
     background-size: cover;
-    height:260px ;
+   
+    height:280px ;
     
 }
 
@@ -158,13 +159,13 @@ margin-left: 20px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    
     background-color: #f3f3f3;
 }
 
 .box{
     border: 2px ;
-    height:380px;
+    height:400px;
     width:23%;
     background-color: white;
     padding: 20px 0px 15px;
@@ -182,3 +183,28 @@ margin-left: 20px;
     margin-left: 1rem;
     margin-right: 1rem;
 }
+
+/* next */
+
+ /* .books-store{ 
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.books-image{
+        height: 200px;
+        width: 133px;
+        background-color: pink;
+        background-size: cover;
+
+}
+.books-cont{
+   height: 200px;
+   width: 900px;
+} 
+.c{
+  display: flex;
+  justify-content: flex-start;
+} */
