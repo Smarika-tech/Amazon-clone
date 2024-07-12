@@ -186,21 +186,26 @@ margin-left: 20px;
 
 /* next */
 
- /* .books-store{ 
+  .books-store{  
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: wrap;
     background-color: white;
+    height: 240px;
+    flex-direction: row;
 }
 
-.books-image{
+
+ .books-image{
+    display: flex;
+    align-items: center;
         height: 200px;
         width: 133px;
-        background-color: pink;
+        
+        margin-bottom: 15px;
         background-size: cover;
 
 }
-.books-cont{
+/*.books-cont{
    height: 200px;
    width: 900px;
 } 
