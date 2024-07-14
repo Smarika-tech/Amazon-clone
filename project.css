@@ -188,20 +188,24 @@ margin-left: 20px;
 
   .books-store{  
     display: flex;
-    flex-wrap: wrap;
     background-color: white;
     height: 240px;
-    flex-direction: row;
+   
+   
+}
+.books{
+    width: 100%;
 }
 
-
  .books-image{
+     
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
         height: 200px;
         width: 133px;
-        
-        margin-bottom: 15px;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
         background-size: cover;
 
 }
